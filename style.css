@@ -1,0 +1,23 @@
+ body {
+
+    background-color: rgb(151, 219, 246);
+ }
+
+ #pontos {
+     
+    font-size: 30px;
+    position: relative;
+    left: 20px;
+ }
+#tempo {
+    font-size: 30px;
+    float: right;
+   margin: 40px;
+   
+}
+
+#sketch{
+  color: rgb(177, 50, 50);
+  
+}
+
